@@ -1,0 +1,44 @@
+ol {
+  color: rgb(246, 245, 250);
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(252, 250, 253);
+  font-size: 30px;
+}
+
+.menu {
+  background-color: rgb(9, 8, 117);
+  font-size: 40px;
+  font-family: "Shippori Mincho", "Times New Roman", serif;
+}
+
+h1 {
+  background-color: rgb(12, 17, 68);
+  color: aliceblue;
+  font-size: 60px;
+  font-family: "Shippori Mincho", "Times New Roman", serif;
+}
+
+h2 {
+  background-color: rgb(9, 20, 116);
+  color: aliceblue;
+  font-size: 60px;
+  font-family: "Shippori Mincho", "Times New Roman", serif;
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+}
+
+p {
+  font-family: "Libre Baskerville", "Times New Roman" serif;
+  font-size: 25px;
+  color: aliceblue;
+}
+body {
+  background: url(../image/Kosmos.jpg);
+}
