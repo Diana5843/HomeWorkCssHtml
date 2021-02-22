@@ -11,12 +11,14 @@ a {
 
 #menu {
   background-color: rgb(9, 8, 117);
+  border: 5px groove honeydew;
   font-size: 40px;
   font-family: "Shippori Mincho", "Times New Roman", serif;
 }
 
 h1 {
   background-color: rgb(12, 17, 68);
+  border: 5px groove honeydew;
   color: aliceblue;
   font-size: 60px;
   font-family: "Shippori Mincho", "Times New Roman", serif;
@@ -24,6 +26,7 @@ h1 {
 
 h2 {
   background-color: rgb(9, 20, 116);
+  border: 5px groove honeydew;
   color: aliceblue;
   font-size: 60px;
   font-family: "Shippori Mincho", "Times New Roman", serif;
@@ -41,4 +44,13 @@ p {
 }
 body {
   background: url(../image/Kosmos.jpg);
+}
+
+.img{
+  border: 5px solid navy;
+  width: 900px;
+  height: inherit;
+  box-sizing: border-box;
+  display: inline-block;
+
 }
